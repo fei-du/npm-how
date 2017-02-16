@@ -1,11 +1,14 @@
 {
-  "name": "how-to-npm",
+  "name": "helloworld",
   "version": "1.0.0",
-  "description": "",
+  "description": "for node school",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "fei du",
+  "license": "ISC",
+  "keywords": [
+    "hello"
+  ]
 }
