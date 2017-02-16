@@ -4,11 +4,14 @@
   "description": "for node school",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "fei du",
   "license": "ISC",
   "keywords": [
     "hello"
-  ]
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
