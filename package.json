@@ -13,5 +13,14 @@
   ],
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fei-du/npm-how.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fei-du/npm-how/issues"
+  },
+  "homepage": "https://github.com/fei-du/npm-how#readme"
 }
